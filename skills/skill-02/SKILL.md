@@ -2,7 +2,7 @@
 name: skill-02
 type: workflow
 description: >
-  skill 2
+  skill 2 test
 ---
 
 # skill-02
